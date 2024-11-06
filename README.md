@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @repulsord
+- 👀 I’m love programming stuff for everyone to use for free!
+- 🌱 I’m currently learning java as I want to try do a little modding for minecraft!
+- 📫 You can reach me through one of my emails; elis321yt@gmail.com, elis321alt@gmail.com or repulsordyt@gmail.com.
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I started coding a year ago and has so far learn about 6 new programming languages!
+- [https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1f8-1f1ea.svg] I am from sweden!
