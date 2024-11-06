@@ -4,4 +4,4 @@
 - 📫 You can reach me through one of my emails; elis321yt@gmail.com, elis321alt@gmail.com or repulsordyt@gmail.com.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I started coding a year ago and has so far learn about 6 new programming languages!
-- <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1f8-1f1ea.svg" alt="SE" style="width:20px; height:20px;"> I am from sweden!
+- <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1f8-1f1ea.svg" alt="SE" style="width:15px; height:15px;"> I am from sweden!
