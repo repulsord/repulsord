@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Schoolsoft+]((IN BETA) https://schoolsoftplus.vercel.app/)
+- 🔭 I’m currently working on [Schoolsoft+ [IN BETA]](https://schoolsoftplus.vercel.app/)
 
 - 🌱 I’m currently learning **React**
 
